@@ -214,4 +214,4 @@ Solução projetada para simular um cenário real de sistemas distribuídos, pri
 - Observabilidade
 - Código limpo e organizado
 # api-vendedor-service
-# api-vendedor-service
+
