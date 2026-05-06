@@ -213,5 +213,3 @@ Solução projetada para simular um cenário real de sistemas distribuídos, pri
 - Resiliência
 - Observabilidade
 - Código limpo e organizado
-# api-vendedor-service
-
